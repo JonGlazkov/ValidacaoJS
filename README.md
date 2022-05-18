@@ -1,5 +1,4 @@
-# ValidacaoJS
-Validação de Formulário em JS!
+# Validação de Formulário em JS!
 
 Aprendendo como fazer validação de idade.
 
